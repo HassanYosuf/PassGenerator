@@ -13,5 +13,3 @@
 <p align="center">
   <img src="PasswordGenerator/image/PasswordGenerator.png" width="850" height="auto" title="options">
 </p>
-<h2>Drive Link for Password Generator Executable jar file</h2>
-https://drive.google.com/file/d/1YNGkM5V3VlR04ZdgfDWfTxahUT2dHpKo/view?usp=sharing
